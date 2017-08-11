@@ -1,0 +1,24 @@
+# The dot "." corresponds to the gap symbole. You may want to change it if the gap
+# symbole of your alignement is an other character.
+# aa  class
+A    4       
+R    6       
+N    5       
+D    5       
+C    1       
+Q    5       
+E    5       
+G    3       
+H    6       
+I    1       
+L    1       
+K    6       
+M    1       
+F    2       
+P    4       
+S    4       
+T    4       
+W    2       
+Y    2       
+V    1       
+.    -       
